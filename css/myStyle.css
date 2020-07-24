@@ -1,0 +1,29 @@
+
+.lineText {
+    text-align: center;
+     position: relative;
+     top: 150px;
+
+
+}
+.firstBlok {
+
+    background-image: url("/home/kirillyuly/IdeaProjects/Dz2/imadge/imadge1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: auto;
+
+
+}
+
+.seknodBlok {
+    background-color: red;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: auto;
+    p:  top: 10px;
+
+
+}
